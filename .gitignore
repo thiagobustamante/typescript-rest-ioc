@@ -1,0 +1,8 @@
+.DS_Store
+dist
+!test/*.js
+node_modules
+.vscode
+reports
+*.log
+npm-debug.log*
