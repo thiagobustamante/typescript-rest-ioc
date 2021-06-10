@@ -1,3 +1,7 @@
+[![npm version](https://badge.fury.io/js/typescript-rest-ioc.svg)](https://badge.fury.io/js/typescript-rest)
+![Master Workflow](https://github.com/thiagobustamante/typescript-rest-ioc/workflows/Master%20Workflow/badge.svg)
+[![Coverage Status](https://codecov.io/gh/thiagobustamante/typescript-rest-ioc/branch/master/graph/badge.svg)](https://codecov.io/gh/thiagobustamante/typescript-rest-ioc)
+
 # Typescript-Rest with IoC
 
 After install Typescript-Rest, install the IoC container and the serviceFactory for the IoC Container
